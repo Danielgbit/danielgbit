@@ -4,8 +4,8 @@
 
 ## 🔭 Tecnologías y herramientas
 
-- Desarrollo de aplicaciones web y móviles utilizando **JavaScript** y **React**.
-- Creación de API RESTful con **Node.js** y **Express**.
+- Desarrollo de aplicaciones web y móviles utilizando **JavaScript**, **React**, **HTML** y **CSS**.
+- Experiencia en el uso de preprocesadores de estilos como **SASS** para crear diseños elegantes y reutilizables.
 - Control de versiones con **Git** y colaboración en **GitHub**.
 
 ## 🌱 Proyectos destacados
